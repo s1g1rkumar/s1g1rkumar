@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Header Banner with 100% Guaranteed Name Visibility -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1f6feb,100:58a6ff&height=200&section=header" width="100%"/>
-
+<!-- High-Impact Glassmorphic Header -->
 <br/>
 
 <h1 align="center">
@@ -10,14 +8,21 @@
 </h1>
 
 <h3 align="center">
-  <b>Senior Full-Stack Developer & Enterprise Systems Architect</b>
+  <font color="#8B949E">Senior Full-Stack Developer & Enterprise Systems Architect</font>
 </h3>
 
 <p align="center">
-  <b>4+ Years Experience · 50,000+ Active Users · 11+ Client Organizations · 99.5% Uptime SLA</b>
+  <b>React.js · TypeScript · Node.js · Express · Angular · AWS · Docker · MySQL · MongoDB</b>
 </p>
 
-<!-- Typing SVG Subtitle -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Users-50%2C000%2B-0A66C2?style=for-the-badge&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clients-11%2B%20Orgs-238636?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uptime%20SLA-99.5%25-D14836?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Enterprise+ERP+%26+FinTech+SaaS;React.js+%7C+TypeScript+%7C+Node.js+%7C+AWS+%7C+Docker;Architecting+Multi-Tenant+Systems+with+Zero-Downtime;10-35%25+Performance+Gains+%7C+Shared+Component+Libraries" alt="Typing SVG" />
 </a>
@@ -85,53 +90,6 @@
 | 🛡️ **Platform Reliability** | **99.5% Uptime SLA** | High-availability backend APIs hosted on AWS EC2 & S3 |
 
 </div>
-
-<br/>
-
----
-
-### 🏗️ Enterprise ERP Architecture Flow
-
-```mermaid
-graph TD
-    %% User Layer
-    subgraph Client_Tier ["🎨 Client & Micro-Frontend Layer"]
-        UI["React 18 / TypeScript SPA"]
-        MFE["Shared Reusable UI Library (25% Faster Dev)"]
-        State["Redux Toolkit Global State"]
-        UI --> MFE
-        UI --> State
-    end
-
-    %% Security & Gateway Layer
-    subgraph Ingress_Tier ["🔐 Security & Ingress Layer"]
-        Nginx["Nginx Reverse Proxy & SSL"]
-        JWT["JWT Auth & Role-Based Access Control (RBAC)"]
-        Nginx --> JWT
-    end
-
-    %% Microservices & API Layer
-    subgraph Backend_Tier ["⚡ Microservices & API Gateway"]
-        API["Node.js / Express REST & GraphQL APIs"]
-        ERP["8 Enterprise ERP Business Modules"]
-        FIN["EMI & Loan Tracking Financial Engine"]
-        API --> ERP
-        API --> FIN
-    end
-
-    %% Data & Cloud Layer
-    subgraph Storage_Tier ["🛢️ Cloud Infrastructure & Databases"]
-        MySQL[("MySQL Cluster\n(Optimized Queries)")]
-        Mongo[("MongoDB Atlas\n(Document Store)")]
-        S3["AWS S3 Bucket\n(Encrypted Vault)"]
-    end
-
-    Client_Tier -->|HTTPS / WSS| Nginx
-    JWT --> API
-    ERP --> MySQL
-    ERP --> S3
-    FIN --> Mongo
-```
 
 <br/>
 
@@ -251,24 +209,21 @@ Stack: React.js · Angular · Node.js · Express.js · MongoDB · MySQL · AWS S
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 GitHub Activity & Contribution Matrix
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=s1g1rkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" alt="Sagar's GitHub Stats" />
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1g1rkumar&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/s1g1rkumar?label=Followers&style=for-the-badge&color=1f6feb&logo=github" />
+  <img src="https://img.shields.io/github/stars/s1g1rkumar?label=Total%20Stars&style=for-the-badge&color=0A66C2&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-Active%20Commits-238636?style=for-the-badge&logo=github" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s1g1rkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<!-- Rock-Solid High Speed Contribution Graph SVG -->
+<p align="center">
+  <b>GitHub Contribution Graph</b><br/><br/>
+  <img src="https://ghchart.rshah.org/58a6ff/s1g1rkumar" alt="Sagar's GitHub Contribution Chart" width="100%" />
+</p>
 
 </div>
 
@@ -297,9 +252,5 @@ Score: CGPA 8.25 / 10.0
 <a href="https://linkedin.com/in/sagar-kumar-rana6664/"><img src="https://img.shields.io/badge/LinkedIn-sagar--kumar--rana6664-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://sagardev.work.gd/"><img src="https://img.shields.io/badge/Portfolio-sagardev.work.gd-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/s1g1rkumar"><img src="https://img.shields.io/badge/GitHub-s1g1rkumar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
