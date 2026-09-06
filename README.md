@@ -137,7 +137,7 @@ Stack: React.js · TypeScript · Node.js · Express.js · MySQL · AWS (EC2, S3)
 </details>
 
 <details open>
-<summary><b>🔹 Software Developer — Invictus DigiSoft Pvt. Ltd.</b> <i>(Sept 2024 – Nov 2025 · Onsite)</i></summary>
+<summary><b>🔹 Software Developer — Invictus DigiSoft Pvt. Ltd.</b> <i>(Jan 2022 – Aug 2024 · Onsite)</i></summary>
 <br/>
 
 - 🚀 **Full-Stack Project Delivery:** Led full-stack delivery on **2–3 MEAN and MERN stack projects**, backed by secure REST APIs and MySQL, supporting **5,000–10,000 end users**.
