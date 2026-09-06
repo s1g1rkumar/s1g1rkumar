@@ -1,40 +1,35 @@
 <div align="center">
 
-<!-- Cyber RPG HUD Header -->
+<!-- Banner & Header -->
 <br/>
 
 <h1 align="center">
-  <font size="7" color="#58A6FF"><b>⚔️ SAGAR KUMAR RANA ⚔️</b></font>
+  <font size="7" color="#58A6FF"><b>SAGAR KUMAR RANA</b></font>
 </h1>
 
 <h3 align="center">
-  <font color="#38BDF8"><b>Senior Full-Stack Developer & Enterprise Systems Architect</b></font>
+  <font color="#8B949E">Senior Full-Stack Developer | React.js · TypeScript · Node.js · Angular · AWS</font>
 </h3>
 
 <p align="center">
-  <i>"Ship fast. Ship secure. Build resilient systems that scale cleanly for years."</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-5%2B%20Years%20XP-1f6feb?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLASS-Full--Stack%20Architect-0A66C2?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/IMPACT-50%2C000%2B%20Users-238636?style=for-the-badge&logo=users&logoColor=white" />
-  <img src="https://img.shields.io/badge/GUILD-11%2B%20Enterprise%20Clients-8B5CF6?style=for-the-badge&logo=enterprise&logoColor=white" />
-  <img src="https://img.shields.io/badge/SLA-99.5%25%20Uptime-D14836?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Users-50%2C000%2B-0A66C2?style=for-the-badge&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Organizations-11%2B%20Clients-238636?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform%20Uptime-99.5%25-D14836?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+RPG+Developer+Profile!;Architecting+Enterprise+ERP+%26+FinTech+SaaS;React.js+%7C+TypeScript+%7C+Node.js+%7C+AWS+%7C+Docker;5%2B+Years+Experience+%7C+10-35%25+Performance+Gains" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Senior+Full-Stack+Developer+%7C+4%2B+Years+Experience;React.js+%7C+TypeScript+%7C+Node.js+%7C+Angular+%7C+AWS;50%2C000%2B+Users+Served+Across+11%2B+Client+Organizations;10-35%25+Performance+Gains+%7C+Shared+Component+Libraries" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Quick Link Badges -->
-<a href="http://sagardev.work.gd/"><img src="https://img.shields.io/badge/🎮%20RPG%20Portfolio-sagardev.work.gd-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sagar-kumar-rana6664/"><img src="https://img.shields.io/badge/LinkedIn-Sagar%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- Contact Badges -->
+<a href="http://sagardev.work.gd/"><img src="https://img.shields.io/badge/🌐%20Portfolio-sagardev.work.gd-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sagar-kumar-rana6664/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/s1g1rkumar"><img src="https://img.shields.io/badge/GitHub-s1g1rkumar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:sagar.rana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sagar.rana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -42,48 +37,42 @@
 
 ---
 
-### 🎮 Character Stats & RPG Terminal
+### 📝 Professional Summary
 
-```json
-{
-  "character": {
-    "name": "Sagar Kumar Rana",
-    "title": "Senior Full-Stack Architect",
-    "experience_level": "5+ Years XP",
-    "speciality": "Enterprise ERPs, FinTech Engines & Scalable Micro-Frontends",
-    "rpg_portfolio": "http://sagardev.work.gd/"
-  },
-  "skill_tree_attributes": {
-    "frontend_mastery": "98% (React 18, TypeScript, Redux Toolkit, Micro-Frontends)",
-    "backend_engineering": "95% (Node.js, Express, RESTful APIs, GraphQL, WebSockets)",
-    "database_tuning": "92% (MySQL SQL Optimization, MongoDB Mongoose Indexing)",
-    "cloud_and_devops": "90% (AWS EC2/S3, Docker Containerization, GitHub Actions CI/CD)"
-  },
-  "quest_achievements": [
-    "Architected 8 core enterprise ERP modules for 50,000+ active users across 11+ client orgs",
-    "Pioneered a shared component library delivering 20-35% faster developer velocity",
-    "Optimized SQL backend queries slashing transaction API latency by 20-40%",
-    "Automated Dockerized CI/CD pipelines cutting deployment time from hours to 30-60 min"
-  ]
-}
+Senior Full-Stack Developer with **4+ years** delivering scalable enterprise web applications using **React.js, TypeScript, Angular, Node.js, Express.js, MongoDB, MySQL, and AWS**. Shipped ERP, CRM, education, and business-management platforms serving **50,000+ users** across **11+ client organizations**, architecting secure RESTful APIs and cutting dashboard load times by **up to 15%**.
+
+<br/>
+
+---
+
+### 💻 Technical Overview
+
+```yaml
+name: Sagar Kumar Rana
+role: Senior Full-Stack Developer
+experience: 4+ Years
+core_stack: React.js · TypeScript · Node.js · Angular · AWS
+impact: 50,000+ users served across 11+ client organizations
+expertise: Enterprise ERP · SaaS · Financial Platforms · Cloud Architecture · Microservices
 ```
 
 <br/>
 
 ---
 
-### 📊 Quest Performance & System Scale
+### 🚀 Key Performance & Impact Metrics
 
 <div align="center">
 
-| 🚀 Metric | 📊 Scale & Volume | 🛠️ Strategic Engineering Impact |
+| Metric | Achievement | Impact |
 | :--- | :--- | :--- |
-| 👥 **Player Base** | **50,000+ Active Users** | Multi-tenant security, RBAC authorization & org isolation |
-| 🏢 **Enterprise Guilds** | **11+ Corporate Clients** | Custom business workflows, configurable modules & audit logs |
-| 📦 **ERP Modules** | **8 Full Subsystems** | Sales, HR, Finance, Inventory, Purchase, Invoicing, Attendance, Analytics |
-| ⚡ **Performance SLA** | **10% - 35% Speed Boost** | Route lazy-loading, selective memoization, and SQL query tuning |
-| ⚙️ **Deployment Speed** | **30-60 Min Releases** | Dockerized microservices & automated GitHub Actions CI/CD pipelines |
-| 🛡️ **System Reliability** | **99.5% Uptime SLA** | High-availability backend services hosted on AWS EC2 & S3 |
+| 👥 **User Base** | **50,000+ Active Users** | Multi-tenant security & organization isolation |
+| 🏢 **Client Scope** | **11+ Client Orgs** | Multi-tenant ERP workflows with full RBAC |
+| 📦 **ERP Modules** | **8 Enterprise Modules** | Sales, Inventory, Purchase, Quotation, Invoicing, HR, Attendance, Reporting |
+| ⚡ **Frontend Optimization** | **10–15% Faster Loads** | Lazy loading, code splitting & `React.memo` optimization |
+| ⚙️ **Deployment Speed** | **30–60 Min Releases** | CI/CD automation with GitHub Actions & Docker (down from hours) |
+| 🗃️ **API Performance** | **20–40% Latency Cut** | SQL query & backend business logic optimization |
+| 🛡️ **Platform Reliability** | **99.5% Uptime SLA** | High-availability backend APIs on AWS (EC2 & S3) |
 
 </div>
 
@@ -91,19 +80,18 @@
 
 ---
 
-### 🌲 Tech Tree & Arsenal Matrix
+### 🛠️ Technical Skills
 
 <div align="center">
 
-| Skill Branch | Technologies & Mastery | Proficiency Level |
-| :--- | :--- | :--- |
-| **Languages & Core** | `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` | **Master / Core** |
-| **Frontend Frameworks** | `React 18` `Redux Toolkit` `Angular` `React Hooks` `Context API` | **Expert** |
-| **UI & Design Systems** | `Tailwind CSS` `Material UI` `Bootstrap` `Custom CSS3` `Figma` | **Expert** |
-| **Backend & Microservices** | `Node.js` `Express.js` `RESTful APIs` `GraphQL` `WebSockets` `JWT` `RBAC` | **Expert** |
-| **Databases & Caching** | `MySQL` `MongoDB` `Mongoose` `SQL Query Optimization` | **Expert** |
-| **Cloud & Infrastructure** | `AWS (EC2, S3)` `Docker` `GitHub Actions` `CI/CD` `Nginx` `PM2` | **Advanced** |
-| **Developer Tools** | `Git` `GitHub` `Postman` `Jira` `VS Code` `Agile/Scrum` | **Master** |
+| Category | Technical Stack |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` |
+| **Frontend** | `React.js` `React Hooks` `Redux Toolkit` `Context API` `Angular` `React Hook Form` `Material UI` `Bootstrap` `Tailwind CSS` `Custom CSS` `Responsive Design` |
+| **Backend** | `Node.js` `Express.js` `REST API Design` `GraphQL` `WebSockets` `JWT Auth` `Passport.js` `RBAC` |
+| **Databases** | `MongoDB (Mongoose, Atlas)` `MySQL` `SQL Query Optimization` |
+| **Cloud & DevOps** | `AWS (EC2, S3)` `Docker` `GitHub Actions` `CI/CD` `Nginx` `PM2` |
+| **Tools & Practices** | `Git / GitHub` `Postman` `Jira` `Figma` `Docker` `Agile/Scrum` |
 
 <br/>
 
@@ -115,22 +103,21 @@
 
 ---
 
-### 📜 Quest Log & Work Record
+### 💼 Professional Experience
 
 <details open>
 <summary><b>🔹 Senior Frontend Developer — Clapcle Infotech Pvt. Ltd.</b> <i>(Dec 2025 – Present · Onsite)</i></summary>
 <br/>
 
-> **Core Objective:** Lead frontend engineering for multi-tenant enterprise ERP software serving **11+ corporate organizations** and **50,000+ active users**.
-
-- 🏢 **Architected 8 Core Enterprise ERP Modules:** Sales, Inventory, Purchase, Quotation, Invoicing, HR, Attendance, and Executive Analytics dashboards in React 18, TypeScript & Redux Toolkit.
-- 🎨 **Enterprise Component Library:** Engineered a central shared component system, reducing new feature development cycles by **20–35%**.
-- ⚡ **Frontend Performance Engineering:** Applied code-splitting, lazy-loading, and memoization (`React.memo`), cutting data-heavy dashboard load times by **10–15%**.
-- 🔐 **Multi-Tenant Security:** Implemented JWT authentication and fine-grained Role-Based Access Control (RBAC) across multi-tenant enterprise accounts.
-- 🐳 **Cloud Services Synergy:** Collaborated on 30+ RESTful APIs, containerizing modules with Docker for AWS cloud deployments.
+- 🏢 **Enterprise ERP Subsystems:** Architect 8 enterprise-scale ERP modules (sales, inventory, purchase, quotation, invoicing, HR, attendance, reporting) using React.js, TypeScript, Redux Toolkit, and custom CSS, streamlining core business workflows for enterprise clients.
+- 🎨 **Shared Component Library:** Engineer a shared library of reusable UI components, shrinking new-module development time by **20–35%**.
+- ⚡ **Performance Optimization:** Boost frontend performance through lazy loading, code splitting, and `React.memo`, reducing load times on data-heavy dashboards by **10–15%**.
+- 🔐 **Multi-Tenant RBAC Security:** Implement JWT-based authentication and role-based access control, securing multi-tenant ERP workflows for **11+ client organizations**.
+- 🐳 **RESTful APIs & Containerization:** Partner with backend engineers to design and consume **30+ scalable RESTful APIs** across modules, containerizing services with Docker for consistent deployment across AWS environments.
+- 🚀 **Agile Release Delivery:** Drive sprint planning, code reviews, and **1–2 production releases per sprint** within an Agile/Scrum team, keeping module rollouts on schedule across concurrent client deployments.
 
 ```text
-Tech Tree: React.js · TypeScript · Redux Toolkit · Custom CSS · REST APIs · Docker · AWS · GitHub Actions
+Stack: React.js · TypeScript · Redux Toolkit · Custom CSS · REST APIs · Docker · AWS · GitHub Actions · Git
 ```
 </details>
 
@@ -138,15 +125,14 @@ Tech Tree: React.js · TypeScript · Redux Toolkit · Custom CSS · REST APIs ·
 <summary><b>🔹 Senior Software Developer — Renew J Software Solution Pvt. Ltd.</b> <i>(Sept 2024 – Nov 2025 · Remote)</i></summary>
 <br/>
 
-> **Core Objective:** Design and deliver an EMI & Financial Loan Management System maintaining **~99.5% platform reliability SLA**.
-
-- 📈 **FinTech Engine Delivery:** Built real-time loan tracking, payment schedules, and transaction processing engines backed by React, TypeScript, Node.js, and MySQL.
-- ⚙️ **Automated CI/CD:** Set up CI/CD automation with GitHub Actions & Docker, slashing deployment time from **hours to 30–60 minutes**.
-- 🗃️ **Database & Query Optimization:** Refactored SQL queries and backend business logic, delivering **20–40% faster transaction API response times**.
-- 🎯 **UX Workflow Streamlining:** Redesigned loan disbursement & payment flows, leading to **10–20% faster task completion rates**.
+- 📈 **EMI Management System:** Created an EMI Management System end-to-end using React, TypeScript, Node.js, and MySQL, maintaining **~99.5% platform reliability** for real-time loan and payment tracking.
+- ☁️ **AWS Infrastructure:** Designed and implemented RESTful APIs on AWS EC2 and S3 infrastructure with **~99.5% uptime**.
+- 🎯 **UI & Workflow Efficiency:** Crafted responsive, accessible UIs with React Hooks and Redux Toolkit, cutting task completion time on loan and payment workflows by **10–20%**.
+- ⚙️ **Automated CI/CD Pipeline:** Set up CI/CD pipelines with GitHub Actions and Docker, slashing deployment time from **hours to 30–60 minutes**.
+- 🗃️ **Database & API Optimization:** Optimized backend business logic and SQL queries, improving response times on core transaction endpoints by **20–40%**.
 
 ```text
-Tech Tree: React.js · TypeScript · Node.js · Express.js · MySQL · AWS (EC2, S3) · Docker · CI/CD
+Stack: React.js · TypeScript · Node.js · Express.js · MySQL · AWS (EC2, S3) · Docker · GitHub Actions
 ```
 </details>
 
@@ -154,15 +140,14 @@ Tech Tree: React.js · TypeScript · Node.js · Express.js · MySQL · AWS (EC2,
 <summary><b>🔹 Software Developer — Invictus DigiSoft Pvt. Ltd.</b> <i>(Sept 2024 – Nov 2025 · Onsite)</i></summary>
 <br/>
 
-> **Core Objective:** Full-Stack engineering across MEAN/MERN stack applications supporting **5,000–10,000 end users**.
-
-- 🖨️ **SP Media ERP:** Built a complete printing-press ERP (Quotations, Invoicing, Inventory, Sales) that accelerated order processing speed by **10–25%**.
-- 🎓 **Easy Tutor SaaS:** Delivered an institute management platform with role-based admin dashboards adopted by **15+ institutes and 1,000+ students**.
-- 📉 **Stock Market Course Portal:** Developed a high-speed course portal boosting page render speed by **30–40%**.
-- ☁️ **AWS Cloud Vault:** Integrated AWS S3 SDK for secure cloud storage of enterprise documents and invoices.
+- 🚀 **Full-Stack Project Delivery:** Led full-stack delivery on **2–3 MEAN and MERN stack projects**, backed by secure REST APIs and MySQL, supporting **5,000–10,000 end users**.
+- 🖨️ **SP Media ERP:** Delivered the SP Media ERP – a printing-press management system covering quotations, invoicing, sales, purchasing, and inventory – reducing order-processing time by **10–25%**.
+- 🎓 **Easy Tutor SaaS:** Launched Easy Tutor, an institute management platform with a role-based admin dashboard and analytics, adopted by **15+ institutes and 1,000+ students**.
+- 📉 **Stock Market Platform:** Developed a stock-market course-selling platform with a responsive UI, improving page render speed by **30–40%**.
+- ☁️ **Cloud Storage Integration:** Integrated AWS S3 for secure document storage; refactored legacy codebases and managed Git/GitHub workflows for smooth deployments.
 
 ```text
-Tech Tree: React.js · Angular · Node.js · Express.js · MongoDB · MySQL · AWS S3
+Stack: React.js · Angular · Node.js · Express.js · MongoDB · AWS S3 · MySQL
 ```
 </details>
 
@@ -170,33 +155,33 @@ Tech Tree: React.js · Angular · Node.js · Express.js · MongoDB · MySQL · A
 
 ---
 
-### 🏆 Legendary Enterprise Quests (Featured Projects)
+### 🏗️ Key Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">🏢 Enterprise ERP System</h3>
       <p align="center">
-        <a href="https://erp.clapcle.com/"><b>Explore Live ERP ↗</b></a>
+        <a href="https://erp.clapcle.com/"><b>https://erp.clapcle.com/ ↗</b></a>
       </p>
-      <p>Multi-tenant enterprise suite powering <b>50,000+ users</b> across 11+ client organizations. Features multi-module RBAC, real-time analytics, and automated invoicing.</p>
-      <p><b>Tech Stack:</b> React · TS · Redux Toolkit · REST APIs · AWS · Docker</p>
+      <p>Sales, inventory, purchase, quotation/invoice, employee, attendance, and analytics modules with authentication & RBAC, supporting <b>50,000+ users across 11+ organizations</b>.</p>
+      <p><b>Stack:</b> React · TS · Redux Toolkit</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🖨️ SP Media ERP</h3>
       <p align="center">
-        <a href="https://app.spmedia.in/"><b>Explore Live ERP ↗</b></a>
+        <a href="https://app.spmedia.in/"><b>https://app.spmedia.in/ ↗</b></a>
       </p>
-      <p>Printing-press lifecycle management platform covering quotations, purchase orders, inventory, and AWS S3 document vault. Improved processing speed by <b>10–25%</b>.</p>
-      <p><b>Tech Stack:</b> React · Node.js · Express · MySQL · AWS S3</p>
+      <p>Printing-press ERP covering quotation, invoice, sales, purchase, and inventory, with AWS S3 document storage and <b>10–25% faster order processing</b>.</p>
+      <p><b>Stack:</b> React · Node · MySQL · AWS</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📚 Learning Platform</h3>
+      <h3 align="center">📚 Rajendra Suryawanshi Platform</h3>
       <p align="center">
-        <a href="https://rajendravsuryawanshi.com/"><b>Explore Live Portal ↗</b></a>
+        <a href="https://rajendravsuryawanshi.com/"><b>Visit Live Platform ↗</b></a>
       </p>
-      <p>Stock-market education portal featuring dynamic API integration and high-speed page rendering engine (<b>30–45% speed boost</b>).</p>
-      <p><b>Tech Stack:</b> React · JavaScript · Custom CSS · WebSockets</p>
+      <p>Stock-market course-selling platform with dynamic API integration, achieving <b>30–45% faster rendering performance</b>.</p>
+      <p><b>Stack:</b> React · JS · CSS</p>
     </td>
   </tr>
 </table>
@@ -205,7 +190,7 @@ Tech Tree: React.js · Angular · Node.js · Express.js · MongoDB · MySQL · A
 
 ---
 
-### 📊 GitHub Activity & Contribution Matrix
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
@@ -215,10 +200,10 @@ Tech Tree: React.js · Angular · Node.js · Express.js · MongoDB · MySQL · A
   <img src="https://img.shields.io/badge/Contributions-Active%20Commits-238636?style=for-the-badge&logo=github" />
 </p>
 
-<!-- 100% Reliable High-Speed Contribution Graph SVG -->
+<!-- 100% Reliable High-Speed Contribution Heatmap -->
 <p align="center">
   <b>GitHub Contribution Heatmap</b><br/><br/>
-  <img src="https://ghchart.rshah.org/38bdf8/s1g1rkumar" alt="Sagar's GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/s1g1rkumar" alt="Sagar's GitHub Contribution Chart" width="100%" />
 </p>
 
 </div>
@@ -227,12 +212,12 @@ Tech Tree: React.js · Angular · Node.js · Express.js · MongoDB · MySQL · A
 
 ---
 
-### 🎓 Academic Background
+### 🎓 Education
 
 ```yaml
 Degree: Master of Computer Applications (M.C.A.)
-University: Jharkhand Rai University, Ranchi
-Graduation: August 2019 – September 2021
+Institution: Jharkhand Rai University, Ranchi
+Timeline: Aug 2019 – Sept 2021
 Academic Distinction: CGPA 8.25 / 10.0
 ```
 
@@ -240,17 +225,13 @@ Academic Distinction: CGPA 8.25 / 10.0
 
 ---
 
-### 📫 Connect with the Developer
+### 📫 Connect & Collaborate
 
 <div align="center">
 
-Looking to discuss **Enterprise Architecture**, **Micro-Frontends**, **SaaS Scaling**, or **Senior Engineering Opportunities**?
-
-<br/>
-
 <a href="mailto:sagar.rana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-sagar.rana.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/sagar-kumar-rana6664/"><img src="https://img.shields.io/badge/LinkedIn-sagar--kumar--rana6664-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="http://sagardev.work.gd/"><img src="https://img.shields.io/badge/🎮%20RPG%20Portfolio-sagardev.work.gd-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="http://sagardev.work.gd/"><img src="https://img.shields.io/badge/🌐%20Portfolio-sagardev.work.gd-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/s1g1rkumar"><img src="https://img.shields.io/badge/GitHub-s1g1rkumar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
